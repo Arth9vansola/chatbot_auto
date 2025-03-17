@@ -1,4 +1,4 @@
-# Chatbot Auto - whatsapp
+# Chatbot Auto - whatsapp app
 
 ## Overview
 Chatbot Auto is a simple automated chatbot designed to streamline tasks by mapping assigned tasks to designated destinations. Based on the mapping, the chatbot generates intelligent and relevant replies to user inputs, making task automation more efficient.
